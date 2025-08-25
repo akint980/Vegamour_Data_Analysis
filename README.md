@@ -6,7 +6,7 @@ Overview
 
 - Retrieving tweets from X
 
-- Generating synthetic tweets using AI (GPT-2)
+- Generating synthetic tweets using Transformers
 
 - Cleaning tweets for analysis
 
@@ -27,7 +27,7 @@ Example: Pulling tweets mentioning Vegamour products.
 
 Uses Hugging Face’s GPT-2 model to create synthetic tweets based on customizable prompts.
 
-Produces raw text output that may include prompt echoes and extraneous data.
+Produces raw text output that may include prompt echoes and data.
 
 3. Cleaning Tweets
 
