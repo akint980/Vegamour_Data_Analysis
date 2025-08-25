@@ -46,8 +46,9 @@ Classifies tweets as Positive, Neutral, or Negative based on polarity scores.
 5. Emotional Analysis
 
 Assigns one of four emotions — Joy, Frustration, Nostalgia, or Gratitude — randomly.
-<img width="1600" height="852" alt="image" src="https://github.com/user-attachments/assets/2f2de341-27b6-4e2e-9788-83eaed02b612" />
+<img width="1061" height="546" alt="image" src="https://github.com/user-attachments/assets/9e1c6bed-2f83-4091-a7e2-c01a0a75e6fb" />
 
-<img width="1600" height="852" alt="image" src="https://github.com/user-attachments/assets/a8b0aa38-3443-4070-89dd-cf8294dd8b04" />
+
+
 
 
